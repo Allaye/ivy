@@ -4,7 +4,7 @@
     <a href="https://github.com/unifyai/ivy"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
   </embed>
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/repos/ivy/logo.png?raw=true
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/logo.png?raw=true
    :width: 100%
 
 .. raw:: html
@@ -27,12 +27,12 @@
         <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://badge.fury.io/py/ivy-core.svg">
     </a>
     <a href="https://github.com/unifyai/ivy/actions?query=workflow%3Adocs">
-        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/workflow/status/unifyai/ivy/docs?label=docs">
+        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ivy/actions/workflows/docs.yml/badge.svg">
     </a>
     <a href="https://github.com/unifyai/ivy/actions?query=workflow%3Atest-ivy">
-        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/workflow/status/unifyai/ivy/test-ivy?label=tests">
+        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ivy/actions/workflows/test-ivy.yml/badge.svg">
     </a>
-    <a href="https://discord.gg/G4aR9Q7DTN">
+    <a href="https://discord.gg/sXyFF8tDtm">
         <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/799879767196958751?color=blue&label=%20&logo=discord&logoColor=white">
     </a>
     </div>
@@ -45,30 +45,30 @@
 .. raw:: html
 
     <div style="display: block;" align="center">
-        <img width="3%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
+        <img width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
         <a href="https://jax.readthedocs.io">
-            <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/jax_logo.png">
+            <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/jax_logo.png">
         </a>
-        <img width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
+        <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
         <a href="https://www.tensorflow.org">
-            <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/tensorflow_logo.png">
+            <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/tensorflow_logo.png">
         </a>
-        <img width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
-        <a href="https://mxnet.apache.org">
-            <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/mxnet_logo.png">
-        </a>
-        <img width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
+        <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
         <a href="https://pytorch.org">
-            <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/pytorch_logo.png">
+            <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/pytorch_logo.png">
+        </a>
+        <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
+        <a href="https://numpy.org">
+            <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/numpy_logo.png">
         </a>
         <img width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/empty.png">
-        <a href="https://numpy.org">
-            <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/supported/numpy_logo.png">
-        </a>
     </div>
+
 
 .. _docs: https://lets-unify.ai/ivy
 .. _Colabs: https://drive.google.com/drive/folders/16Oeu25GrQsEJh8w2B0kSrD93w4cWjJAM?usp=sharing
+.. _`contributor guide`: https://lets-unify.ai/ivy/contributing.html
+.. _`open tasks`: https://lets-unify.ai/ivy/contributing/open_tasks.html
 
 Contents
 --------
@@ -78,30 +78,40 @@ Contents
 * `Background`_
 * `Design`_
 * `Extensions`_
-* `Roadmap`_
 * `Contributing`_
 
 Overview
 --------
 
-Ivy is an ML framework which currently supports JAX, TensorFlow, PyTorch, MXNet and Numpy. We’re very excited for you to try it out!
+Ivy is an ML framework that currently supports JAX, TensorFlow, PyTorch, and Numpy.
+We’re very excited for you to try it out!
 
-Next on our road-map is to support automatic code conversions between any frameworks 🔄, and add instant multi-framework support for all open-source libraries with only a few lines of code changed! Read on to learn more 😊
+Next on our roadmap is to support automatic code conversions between all frameworks 🔄,
+and add instant multi-framework support for all open-source libraries with only a few lines of code changed!
+Read on to learn more 😊
 
-The docs are split into a number of sub-pages explaining different aspects of why we created Ivy, how to use it, what we’ve got planned on our road-map, and how to contribute! Click on the sub-headings to check out these pages!
+The docs are split into a number of sub-pages explaining different aspects of why we created Ivy,
+how to use it, what we’ve got planned on our roadmap, and how to contribute!
+Click on the sub-headings below to check out these pages!
 
-We use 🚧 to indicate that the feature being discussed is in development. We use ✅ to indicate that it is already implemented!
+We use 🚧 to indicate that the feature being discussed is in development.
+We use ✅ to indicate that it is already implemented!
 
-Check out the docs_ for more info, and check out our Google Colabs_ for some interactive demos!
+Check out the docs_ for more info,
+and check out our Google Colabs_ for some interactive demos!
 
 🚨 Ivy is still at a relatively early stage of development.
 Expect breaking changes and sharp edges until we release version 1.2.0 in the next few weeks!
+
+If you would like to contribute,
+please check out our `contributor guide`_,
+and take a look at the `open tasks`_ if you'd like to dive straight in! 🧑‍💻
 
 Quick Start
 -----------
 
 Ivy can be installed like so: ``pip install ivy-core``
-You can immediately use Ivy to train a neural network, using your favourite framework in the background, like so:
+You can immediately use Ivy to train a neural network, using your favorite framework in the background, like so:
 
 .. code-block:: python
 
@@ -117,7 +127,7 @@ You can immediately use Ivy to train a neural network, using your favourite fram
             x = ivy.relu(self.linear0(x))
             return ivy.sigmoid(self.linear1(x))
 
-    ivy.set_framework('torch')  # change to any framework!
+    ivy.set_backend('torch')  # change to any backend!
     model = MyModel()
     optimizer = ivy.Adam(1e-4)
     x_in = ivy.array([1., 2., 3.])
@@ -125,7 +135,7 @@ You can immediately use Ivy to train a neural network, using your favourite fram
 
     def loss_fn(v):
         out = model(x_in, v=v)
-        return ivy.reduce_mean((out - target)**2)[0]
+        return ivy.mean((out - target)**2)
 
     for step in range(100):
         loss, grads = ivy.execute_with_gradients(loss_fn, model.v)
@@ -135,7 +145,7 @@ You can immediately use Ivy to train a neural network, using your favourite fram
     print('Finished training!')
 
 This example uses PyTorch as a backend framework,
-but the backend can easily be changed to your favourite framework, such as TensorFlow, JAX or MXNet.
+but the backend can easily be changed to your favorite frameworks, such as TensorFlow, or JAX.
 
 **Framework Agnostic Functions**
 
@@ -147,7 +157,6 @@ This is the same for ALL Ivy functions. They can accept tensors from any framewo
     import jax.numpy as jnp
     import tensorflow as tf
     import numpy as np
-    import mxnet as mx
     import torch
 
     import ivy
@@ -155,7 +164,6 @@ This is the same for ALL Ivy functions. They can accept tensors from any framewo
     jax_concatted   = ivy.concat((jnp.ones((1,)), jnp.ones((1,))), -1)
     tf_concatted    = ivy.concat((tf.ones((1,)), tf.ones((1,))), -1)
     np_concatted    = ivy.concat((np.ones((1,)), np.ones((1,))), -1)
-    mx_concatted    = ivy.concat((mx.nd.ones((1,)), mx.nd.ones((1,))), -1)
     torch_concatted = ivy.concat((torch.ones((1,)), torch.ones((1,))), -1)
 
 To see a list of all Ivy methods, type :code:`ivy.` into a python command prompt and press :code:`tab`.
@@ -192,7 +200,7 @@ You should then see output like the following:
    ivy.depthwise_conv2d(                  ivy.norm(                                 ivy.to_numpy(
    ivy.dtype(                             ivy.one_hot(                              ivy.transpose(
    ivy.execute_with_gradients(            ivy.ones(                                 ivy.unstack(
-   ivy.exp(                               ivy.ones_like(                            ivy.variable(
+   ivy.exp(                               ivy.ones_like(                            ivy.vector_norm(
    ivy.expand_dims(                       ivy.pinv(                                 ivy.vector_to_skew_symmetric_matrix(
    ivy.flip(                              ivy.randint(                              ivy.verbosity
    ivy.floor(                             ivy.random                                ivy.where(
@@ -220,16 +228,16 @@ Design
 | 1. Serve as a transpiler between frameworks 🚧
 | 2. Serve as a new ML framework with multi-framework support ✅
 |
-| The Ivy codebase can then be split into three categories, and can be further split into 8 distinct submodules, each of which fall into one of these three categories as follows:
+| The Ivy codebase can then be split into three categories, and can be further split into 8 distinct submodules, each of which falls into one of these three categories as follows:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/submodule_dependency_graph.png?raw=true
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/design/submodule_dependency_graph.png?raw=true
    :align: center
    :width: 100%
 
 | (a) `Building Blocks <https://lets-unify.ai/ivy/design/building_blocks.html>`_
-| Back-end functional APIs ✅
+| Backend functional APIs ✅
 | Ivy functional API ✅
-| Framework Handler ✅
+| Backend Handler ✅
 | Ivy Compiler 🚧
 |
 | (b) `Ivy as a Transpiler <https://lets-unify.ai/ivy/design/ivy_as_a_transpiler.html>`_
@@ -244,33 +252,17 @@ Extensions
 ----------
 
 | (a) `Applied Libraries <https://lets-unify.ai/ivy/extensions/applied_libraries.html>`_ ✅
-| Ivy libraries in mechanics, vision, robotics, memory and other areas
+| Ivy libraries in mechanics, vision, robotics, memory, and other areas
 |
 | (b) **Builder [page coming soon!]** ✅
 | :code:`ivy.Trainer`, :code:`ivy.Dataset`, :code:`ivy.Dataloader` and other helpful classes and functions for creating training workflows in only a few lines of code
-
-Roadmap
--------
-
-| We strongly welcome and encourage contributions from the community as we take on this important journey towards ML framework unification. These posts will explain exactly how you can get involved 🙂
-|
-| (a) **Standardize [page coming soon!]** 🚧
-| Align Ivy with the `Consortium for Python Data API Standards <https://data-apis.org>`_
-|
-| (b) **Front-Ends [page coming soon!]** 🚧
-| Create backend-specific front-ends for each supported ML framework
-|
-| (c) **Transpiler [page coming soon!]** 🚧
-| Verify code conversions work for each back-end and front-end combo
-|
-| (d) **Ecosystem [page coming soon!]** 🚧
-| Add multi-framework support to popular repos with a few lines changed
 
 Contributing
 ------------
 
 Join our community as a code contributor, and help accelerate our journey to unify all ML frameworks!
-Find out more in our `Contributing <https://lets-unify.ai/ivy/contributing.html>`_ guide!
+Check out all of our open tasks, and find out more info in our
+`Contributing <https://lets-unify.ai/ivy/contributing.html>`_ guide!
 
 Citation
 --------
@@ -292,11 +284,19 @@ Citation
 
    background.rst
    design.rst
+   related_work.rst
    extensions.rst
-   roadmap.rst
    contributing.rst
    deep_dive.rst
    faq.rst
+   glossary.rst
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: -1
+   :caption: Compiler
+
 
 
 .. toctree::
@@ -305,22 +305,41 @@ Citation
    :caption: Functions
 
    functional/backends.rst
+   functional/frontends.rst
    functional/ivy.rst
 
 
 .. toctree::
    :hidden:
    :maxdepth: -1
-   :caption: Classes
+   :caption: Data Classes
 
+   data_classes/container.rst
+   data_classes/array.rst
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: -1
+   :caption: Framework Classes
+
+   stateful/optimizers.rst
    stateful/activations.rst
-   stateful/converters.rst
-   stateful/initializers.rst
    stateful/layers.rst
    stateful/module.rst
-   stateful/norms.rst
-   stateful/optimizers.rst
+   stateful/initializers.rst
+   stateful/converters.rst
    stateful/sequential.rst
+   stateful/helpers.rst
+   stateful/norms.rst
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: -1
+   :caption: Nested array
+
+   nested_array/nested_array.rst
 
 
 .. toctree::
